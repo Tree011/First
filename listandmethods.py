@@ -1,0 +1,11 @@
+l1= [3,2,10,4,5,5]
+print(type(l1))
+print(l1)
+l1.remove(5)
+print(l1)
+print(l1.count(4))
+print(l1.sort())
+print(l1)
+l1.pop()
+l1.append(33)
+print(l1)
